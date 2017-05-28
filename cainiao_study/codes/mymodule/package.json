@@ -1,0 +1,15 @@
+{
+  "name": "mymodule",
+  "version": "0.0.1",
+  "description": "我的第一个module",
+  "main": "index.js",
+  "scripts": {
+    "test": "--test"
+  },
+  "keywords": [
+    "mymodule",
+    "firstmodule"
+  ],
+  "author": "Daniel",
+  "license": "GPL-3.0"
+}
